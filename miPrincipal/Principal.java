@@ -10,7 +10,7 @@ public class Principal {
 
         Scanner consola = new Scanner(System.in);
 
-        System.out.println("Encontrar raices de un polinomio ax^2 + bx + c = 0 con la fórmula general");
+        System.out.println("Encontrar raices de un polinomio ax^2 + bx + c = 0 con la formula general");
         System.out.println("======================");
 
         System.out.print("Introduce el valor de a:");
