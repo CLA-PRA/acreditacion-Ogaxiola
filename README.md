@@ -1,4 +1,4 @@
-# Proyecto - Calculadora aritmética Simple
+# Proyecto - Fórmula general
 
 ## Descripción del Problema
 
