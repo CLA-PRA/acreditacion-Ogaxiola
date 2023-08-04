@@ -22,10 +22,6 @@ public class Principal {
         System.out.print("Introduce el valor de c:");
         c = consola.nextDouble();
 
-        System.out.println("X1="+d.raiz1(a, b, c));
-        System.out.println("X2="+d.raiz2(a, b, c));
-
-        //System.out.println(x+"/"+y+"="+c.divide(x, y));
 
         consola.close();
     }
